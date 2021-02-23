@@ -34,7 +34,7 @@ const Item = ({
               <Button imp="primary" text={leftBtnTxt} link={leftBtnLink} />
               {twoButtons && (
                 <Button
-                  imp="secundary"
+                  imp="secondary"
                   text={rightBtnTxt}
                   link={rightBtnLink}
                 />
